@@ -1,5 +1,3 @@
-  <p><img src="![1920x1080-hitman-2-background-j09ahoq093qj5xix](https://github.com/user-attachments/assets/d45bf5fb-7358-4aec-b793-354f9881bc4d)
-" alt="Rohit"></p>
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Rohit</h2><p></p>
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
