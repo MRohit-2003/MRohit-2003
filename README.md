@@ -60,5 +60,6 @@
 <a href="https://www.linkedin.com/in/m-rohit-138a76246/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue" /></a>
 </p>
 <hr>
+![Visitor Count](https : //profile-counter.glitch.me/{MRohit-2003}/count.svg)
 <p>Credits: <a href="https://github.com/MRohit-2003">M Rohit</a></p>
 <p>Last Edited on: 17/07/2025</p> 
