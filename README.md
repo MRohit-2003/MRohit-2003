@@ -7,7 +7,7 @@
 <!-- ##✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.<br> -->
 💬 &nbsp;Feel free to reach out to me for any opportunities or volunteering, or just for some interesting discussion.<br>
 ✉️ &nbsp;You can shoot me an email at <a href="mailto:mrohit582003@gmail.com">mrohit582003@gmail.com</a>! I’ll try to respond as soon as I can.<br>
-📄 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1N24a-uvaNVvW26WTJLNDTHoGfDR7FtqT/view?usp=sharing" target="_blank">Résumé</a> for more details about me. I’m open to feedback and suggestions!</p>
+📄 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1oZTqDiZcJO3rYLqLWBCFjInhK9ZrbR5k/view?usp=sharing" target="_blank">Résumé</a> for more details about me. I’m open to feedback and suggestions!</p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <h4 id="-Languages & Syntax">&nbsp;Languages & Syntax</h4>
