@@ -48,12 +48,14 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MRohit-2003&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
 </a>
 </p>
-<!-- Profile Trophies -->
+<!-- <!-- Profile Trophies -->
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="trophy"/>
     </a>
-</div>  
+</div>   -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="center">
 <a href="mailto:mrohit582003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=red" /></a>
