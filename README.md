@@ -48,11 +48,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MRohit-2003&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
 </a>
 </p>
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ryo-ma&theme=onedark" alt="trophy" />
   </a>
-</div>
+</div> -->
 
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="center">
